@@ -14,6 +14,7 @@
     padding: 10px;
     margin: 5px;
     display: flex;
+    overflow:hidden;
     justify-content: space-around;
     align-items: flex-end;
     font-family: monospace;
